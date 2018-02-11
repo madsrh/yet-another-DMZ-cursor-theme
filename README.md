@@ -8,6 +8,6 @@ The pointer has also been replaced.
 
 
 ### Installation 
-To give this a try simply copy the folder to `/usr/share/icons/` and select the cursor theme is Tweaks.
+To give this a try simply copy the _Communitheme-White_ folder to `/usr/share/icons/` and select the cursor theme is Tweaks.
 
 
