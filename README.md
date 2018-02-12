@@ -16,4 +16,5 @@ The pointer has also been replaced and should appear sharper.
 
 ### Installation 
 To give this a try simply copy the folders to `/usr/share/icons/` and select the cursor theme is Tweaks.
+
 Example: `sudo cp -r Communitheme_I /usr/share/icons/`
