@@ -9,6 +9,7 @@ Here I could see that the spaces are not synchronously rotating. Also the space 
 - IV: **DMZ-colored_trobber** is the standard default DMZ watch spinner, colored blue.
 - V: With the **orange split** I am trying a different color. Here an orange dot splitting and assembling while rotating. The #E95420 sometimes looks like red, so this one is slightly more orange.
 
+Some of these are 32px and others (II + III) are 48px, but we can easily force either size.
 
 ![examples](examples.jpg)
 
