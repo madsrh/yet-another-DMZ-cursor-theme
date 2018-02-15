@@ -5,7 +5,7 @@ The purpose of this theme is to replace the black/white busy spinner ![](https:/
 - I: For the blue **Unity8 dots** I have used [this YouTube video ](https://youtu.be/Dwxx2yQs_Ig?t=8m3s) as a reference.
 - II: This **Unity8 spinner** came from [the Ubuntu Phone documentation](https://docs.ubuntu.com/phone/en/apps/design/building-blocks/activity-indicators). The space between the lines are transparent.
 - III: After creating the spinner above, I came across [the **Canonical design spinner**](http://https://github.com/CanonicalLtd/desktop-design/blob/master/Progress/spinner.svg "the Canonical design spinner"). 
-Here I could see that the spaces are not synchronously rotating. Also the space between the lines are white here. This helps give contrast when on a orange or white background. The lines are a bit thicker here too.
+Here I could see that the spaces are not synchronously rotating. Also the space between the lines are white here. This helps give contrast when on a orange or white background, but it looks a bit awkward so perhaps revert to transparency. The lines are a bit thicker here too.
 - IV: **DMZ-colored_trobber** is the standard default DMZ watch spinner, colored blue.
 - V: With the **orange split** I am trying a different color. Here an orange dot splitting and assembling while rotating. The #E95420 sometimes looks like red, so this one is slightly more orange.
 
