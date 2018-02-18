@@ -1,5 +1,9 @@
 # Yet another DMZ cursor theme
 
+###### ALL FOLDERS RENAMED IN LATEST UPDATE - PLEASE REMOVE OLD FOLDERS BEFORE COPYING!
+----------
+
+
 The purpose of this theme is to replace the black/white busy spinner ![](https://github.com/GalliumOS/dmz-cursor-theme/blob/master/DMZ-White/pngs/24x24/watch_0001.png) in the DMZ cursor theme. All icons (except the animated watch spinner icon and the pointer) is inherited from the DMZ-White theme. 
 
  1. For the blue **Unity8 dots** I have used [this YouTube video ](https://youtu.be/Dwxx2yQs_Ig?t=8m3s) as a reference.
