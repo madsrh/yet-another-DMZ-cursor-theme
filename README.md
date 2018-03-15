@@ -17,6 +17,7 @@ The purpose of this theme is to replace the black/white busy spinner ![](https:/
 9. A orange bouncing ball. I was hoping the shadow was a bit clear, since the ball disappears on orange backgrounds.
 10. A gray semi-transparent ring with an orange slice rotating.
 11. A blue circle with a "wave" animation.
+12. This one is taking the idea of the current "process-working-symbolic.svg".
 
 Some of these are 32px and others (2 + 3) are 48px, but we can easily force either size.
 
