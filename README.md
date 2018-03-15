@@ -34,5 +34,5 @@ To give this a try simply copy the folders to `/usr/share/icons/` and select the
 ##### Example:
 For easy testing, open the terminal inside the *Yet-another-DZM-cursor-theme* folder and paste the following:
 
-`sudo cp -r Communitheme_1 Communitheme_2 Communitheme_3 Communitheme_4 Communitheme_5 Communitheme_6 Communitheme_7 Communitheme_8 Communitheme_9 Communitheme_10 Communitheme_11 /usr/share/icons/
+`sudo cp -r Communitheme_1 Communitheme_2 Communitheme_3 Communitheme_4 Communitheme_5 Communitheme_6 Communitheme_7 Communitheme_8 Communitheme_9 Communitheme_10 Communitheme_11 Communitheme_12 /usr/share/icons/
 `
