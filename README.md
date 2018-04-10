@@ -19,6 +19,7 @@ The purpose of this theme is to replace the black/white busy spinner ![](https:/
 11. A blue circle with a "wave" animation.
 12. This one is taking the idea of the current "process-working-symbolic.svg".
 13. This IS the actual "process-working-symbolic.svg" spinning.
+13 Black - As above, but just inheriting the DMZ black cursor.
 
 ![examples](examples.jpg)
 
@@ -33,5 +34,5 @@ To give this a try simply copy the folders to `/usr/share/icons/` and select the
 ##### Example:
 For easy testing, open the terminal inside the *Yet-another-DZM-cursor-theme* folder and paste the following:
 
-`sudo cp -r Communitheme_1 Communitheme_2 Communitheme_3 Communitheme_4 Communitheme_5 Communitheme_6 Communitheme_7 Communitheme_8 Communitheme_9 Communitheme_10 Communitheme_11 Communitheme_12 Communitheme_13 /usr/share/icons/
+`sudo cp -r Communitheme_1 Communitheme_2 Communitheme_3 Communitheme_4 Communitheme_5 Communitheme_6 Communitheme_7 Communitheme_8 Communitheme_9 Communitheme_10 Communitheme_11 Communitheme_12 Communitheme_13 Communitheme_13_black /usr/share/icons/
 `
