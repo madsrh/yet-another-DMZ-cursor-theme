@@ -26,6 +26,10 @@ The pointer has also been replaced and should appear sharper.
 
 ![Compare](compare.jpg)
 
+## Communitheme installation
+This is a very early pre-release version of the theme. This package is intended for the Communitheme designers to get a sense of what actually works in Ubuntu. Many icons are missing, some stuff is just a white squircle. You will find issues and **stuff will break**. We'll make a public statement when this theme is ready for a wider audience.
+
+Install Communitheme in order to get one of those cursor Theme set. [How to install Communitheme](https://github.com/ubuntu/communitheme-snap-helpers/blob/master/README.md).
 
 ### Installation 
 To give this a try simply copy the folders to `/usr/share/icons/` and select the cursor theme in Tweaks.
